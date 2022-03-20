@@ -10,6 +10,13 @@
   text-align: center;
   font-size: xx-large;
 }
+
+.img-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .center {
   margin: auto;
 }
@@ -96,7 +103,7 @@
 }
 
 *{
-  background-color: #bff9fd;
+  background-color: #aedbe5;
    margin-top: 0;
   font-family: 'Quicksand', sans-serif;
 }
@@ -107,6 +114,7 @@
             margin: auto;
             height: 50px;
             width: 100%;
+            font-family: 'Quicksand', sans-serif;
             background-color: #36A9AE;
             background-image: linear-gradient(#37ADB2, #329CA0);
             text-align: center;
@@ -131,96 +139,7 @@
   border-radius: 50%;
 }
 
-.dot1{
-position: absolute;
-width: 40px;
-height: 41px;
-left: 67px;
-top: 396px;
 
-background: #FD9A3F;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-}
-/* Ellipse 9 */
-
-.dot2{
-position: absolute;
-width: 14px;
-height: 14.35px;
-left: 62px;
-top: 454px;
-
-background: #FD9A3F;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
-
-
-/* Ellipse 5 */
-
-.dot3 {
-position: absolute;
-width: 27px;
-height: 28px;
-left: 271px;
-top: 396px;
-
-background: #FD9A3F;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
-
-
-/* Ellipse 7 */
-
-.dot4 {
-position: absolute;
-width: 27px;
-height: 28px;
-left: 203px;
-top: 468px;
-
-background: #FD9A3F;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-/* Ellipse 10 */
-
-.dot5{
-position: absolute;
-width: 13.5px;
-height: 14px;
-left: 241px;
-top: 489px;
-
-background: #FD9A3F;
-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);}
-
-
-/* Ellipse 6 */
-
-.dot6 {
-position: absolute;
-width: 10px;
-height: 10px;
-left: 308px;
-top: 390px;
-
-background: #FD9A3F;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
-
-
-/* Ellipse 8 */
-
-.dot7 {
-position: absolute;
-width: 10px;
-height: 10px;
-left: 89px;
-top: 372px;
-
-background: #FD9A3F;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
-}
-/* Group 1 */
 
 .start {
 position: absolute;
